@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Zero Path Cost</name>
   <author>Lilly</author>
@@ -16,6 +16,9 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>Sets path costs to zero for all passable map cells, regardless of terrain, plants, buildings, snow, or fire. Impassable cells remain impassable.</description>
+  <description>Sets path costs to zero for all passable map cells, regardless of terrain, plants, buildings, snow, or fire. Impassable cells remain impassable.
+
+
+AI 로 대충 만듬</description>
   <modVersion>1.0.0</modVersion>
 </ModMetaData>
