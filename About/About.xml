@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Zero Path Cost</name>
+  <author>Lilly</author>
+  <packageId>lilly.zeropathcost</packageId>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>Sets path costs to zero for all passable map cells, regardless of terrain, plants, buildings, snow, or fire. Impassable cells remain impassable.</description>
+  <modVersion>1.0.0</modVersion>
+</ModMetaData>

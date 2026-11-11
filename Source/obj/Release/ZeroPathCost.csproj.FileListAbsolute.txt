@@ -1,0 +1,9 @@
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\Source\obj\Release\ZeroPathCost.csproj.AssemblyReference.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\Source\obj\Release\ZeroPathCost.GeneratedMSBuildEditorConfig.editorconfig
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\Source\obj\Release\ZeroPathCost.AssemblyInfoInputs.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\Source\obj\Release\ZeroPathCost.AssemblyInfo.cs
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\Source\obj\Release\ZeroPathCost.csproj.CoreCompileInputs.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\1.7\Assemblies\ZeroPathCost.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\Source\obj\Release\ZeroPathCost.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\Source\obj\Release\refint\ZeroPathCost.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\Zero Path Cost By Lilly\Source\obj\Release\ref\ZeroPathCost.dll
