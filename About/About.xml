@@ -16,9 +16,8 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>Sets path costs to zero for all passable map cells, regardless of terrain, plants, buildings, snow, or fire. Impassable cells remain impassable.
+  <description>Sets path costs to zero for all passable map cells and neutralizes terrain-tag movement speed modifiers, including slowdowns from ice, snow, and marsh terrain. Impassable cells remain impassable.
 
-
-AI 로 대충 만듬</description>
-  <modVersion>1.0.0</modVersion>
+통행 가능한 모든 칸의 경로 비용을 0으로 설정하고, 얼음·눈·습지 등을 포함한 지형 태그의 이동 속도 감소 효과도 중립화합니다. 통행 불가능한 칸은 계속 통과할 수 없습니다.</description>
+  <modVersion>1.1.0</modVersion>
 </ModMetaData>

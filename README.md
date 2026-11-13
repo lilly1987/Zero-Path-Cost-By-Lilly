@@ -1,7 +1,7 @@
 # Zero Path Cost
 
-Sets the path cost of every passable map cell to zero. This removes movement penalties from terrain, plants, buildings, snow, fire, and other path-cost sources.
+Sets the path cost of every passable map cell to zero and neutralizes terrain-tag movement speed modifiers. This removes terrain path-cost penalties and terrain-based speed reductions, including those from ice, snow, and marsh terrain.
 
-Cells that the game marks impassable remain impassable; this mod removes path-cost penalties but does not make walls or impassable terrain traversable.
+Cells that the game marks impassable remain impassable. Terrain-tag speed modifiers are neutralized; pawn movement speed, buildings, job urgency, and other movement factors remain unchanged.
 
 Requires Harmony and targets RimWorld 1.7.

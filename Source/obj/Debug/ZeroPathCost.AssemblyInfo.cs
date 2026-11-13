@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeroPathCost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e6691620333162b3c73f7508ca8c37e7ff75925")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeroPathCost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeroPathCost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
